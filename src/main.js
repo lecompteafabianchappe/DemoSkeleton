@@ -36,7 +36,7 @@ import {
     ]);
 
     // 🔹 Application de la lens
-    await session.applyLens(lenses[4]);
+    await session.applyLens(lenses[5]);
 
     // 🔹 Ajuster la taille du rendu
     session.source.setRenderSize(window.innerWidth, window.innerHeight);
