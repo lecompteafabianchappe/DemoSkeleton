@@ -26051,7 +26051,7 @@ console.info(`SDK: ${environment_namespaceObject.l} \
 
     // 🔹 Chargement de ta lens
     const { lenses } = await cameraKit.lensRepository.loadLensGroups([
-        '3c54222a-d1d9-451e-9a5b-d366b35d634e'
+        '1eaca1fe-a34d-4a3a-8e3b-8d8b9dcce5c7'
     ]);
 
     // 🔹 Application de la lens
